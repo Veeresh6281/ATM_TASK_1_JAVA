@@ -1,8 +1,6 @@
-Create a fully functional ATM interface using Java
-
-
-
-
+BRAINWAVE MATRIX SOLUTIONS
+    JAVA PROGRAMMING INTERN - TASK 1
+    Create a fully functional ATM interface using Java
 
 
 import java.util.Scanner;
